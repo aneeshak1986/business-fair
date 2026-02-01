@@ -1,0 +1,18 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Bissness Fair</title>
+ </head>
+ <body style="background-color: rgb(185, 145, 145); height: 100vh; margin: 0;">
+    <h1 style="text-align:center; padding-top:50px;">Welcome to Our Business Fair!</h1>
+
+    <h2>What is the Business Fair?</h2>
+    <p>The Business Fair is a <strong>school event</strong>where students create stuff like games, art, and other projects.</p>
+      <h2>When and Where?</h2>
+      <p>The fair will be held in Curtner Elementary School from 3:00 PM to 5:00 PM on February 20th. A countdown is below</p>
+      <iframe width="300" height="154" src="https://w2.countingdownto.com/6880670" frameborder="0"></iframe>
+
+</body>
+ </html>
